@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Construction Management, Tianjin University of Technology, 2018
-* M.S. in Engineering Management, Stevens Institute of TEchnology, 2019
+* M.Eng. in Engineering Management, Stevens Institute of TEchnology, 2019
 * Ph.D in Construction Management, SUNY-ESF , 2025 (expected)
 
 Work experience
